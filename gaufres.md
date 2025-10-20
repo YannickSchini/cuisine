@@ -1,6 +1,8 @@
 # Gaufres
 
 
+![Photo d’un plat de gaufres](./pictures/Gaufres.jpg)
+
 ## Ingrédients
 
 - 1kg farine
