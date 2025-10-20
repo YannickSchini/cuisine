@@ -16,10 +16,11 @@
 
 1. Mettre tout sauf le sucre perlé et le beurre dans un saladier, tout mélanger pour former une pâte
 2. Faire fondre le beurre
-3. Ajouter le beurre fondu, et malaxer la pâte jusqu’à ce qu’elle aie "bu" tout le beurre
+3. Ajouter le beurre fondu à la pâte et malaxer le tout jusqu’à ce que la pâte aie "bu" tout le beurre
 4. Laisser reposer et gonfler
     - Idéalement, laisser reposer dans un endroit plutôt chaud (au-dessus d’un radiateur par ex.)
     - Après ~1h30, "tabasser" la pâte pour la faire dégazer, cela permet de limiter l’odeur et le goût de la levure
+    - Laisser reposer 1 nuit
 5. Ajouter le sucre perlé et mélanger juste avant la cuisson
 6. Pour la cuisson:
     - Faire plutôt des petites gaufre vu qu’elles sont assez nourrissantes
