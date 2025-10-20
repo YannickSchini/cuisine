@@ -18,11 +18,11 @@
 2. Faire fondre le beurre
 3. Ajouter le beurre fondu, et malaxer la pâte jusqu’à ce qu’elle aie "bu" tout le beurre
 4. Laisser reposer et gonfler
-  a. Idéalement, laisser reposer dans un endroit plutôt chaud (au-dessus d’un radiateur par ex.)
-  b. Après ~1h30, "tabasser" la pâte pour la faire dégazer, cela permet de limiter l’odeur et le goût de la levure
+    - Idéalement, laisser reposer dans un endroit plutôt chaud (au-dessus d’un radiateur par ex.)
+    - Après ~1h30, "tabasser" la pâte pour la faire dégazer, cela permet de limiter l’odeur et le goût de la levure
 5. Ajouter le sucre perlé et mélanger juste avant la cuisson
 6. Pour la cuisson:
-  a. Faire plutôt des petites gaufre vu qu’elles sont assez nourrissantes
-  b. Utiliser un gaufrier graissé
-  c. Nettoyer les moules régulièrement pour éviter l’accumulation de caramel brûlé
-  d. Pour la durée de cuisson, je l’estime "à la couleur"
+    - Faire plutôt des petites gaufre vu qu’elles sont assez nourrissantes
+    - Utiliser un gaufrier graissé
+    - Nettoyer les moules régulièrement pour éviter l’accumulation de caramel brûlé
+    - Pour la durée de cuisson, je l’estime "à la couleur"
