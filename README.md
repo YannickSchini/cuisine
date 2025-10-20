@@ -1,2 +1,3 @@
 # cuisine
-Using Git/GitHub to store a few recipes
+
+Using Git/GitHub to store a few recipes.
