@@ -1,18 +1,20 @@
 # Gaufres
 
+Pour ~10 personnes (~20 gaufres rondes de ~8 cm de diamètre)
 
-![Photo d’un plat de gaufres](./pictures/Gaufres.jpg)
+![Photo d'un plat de gaufres](./pictures/Gaufres.jpg)
 
 ## Ingrédients
 
-- 1kg farine
+- 1 kg de farine
 - 4 oeufs
-- 20cL eau
-- 20cL lait
-- 50gr sucre poudre
+- 20 cL d'eau
+- 20 cL de lait
+- 50 g de sucre en poudre
 - 1 pincée de sel
 - 1 cube de levure boulangère fraîche
-- 500gr de sucre perlé
+- 500 g de beurre
+- 500 g de sucre perlé
 
 ## Instructions
 
